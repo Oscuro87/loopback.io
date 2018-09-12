@@ -12,7 +12,7 @@ summary: The built-in email connectors enables applications to send email.
 The email connector is built in to LoopBack, so you don't need to install it.
 
 {% include important.html title="Nodemailer: Where to Find Documentation" content="
-The email connector is essentially a LoopBack-integrated interface to the [nodemailer](https://nodemailer.com/) library. This page gives a usage example; for full documentation of configuration options, **refer to the [nodemailer documention](https://github.com/nodemailer/nodemailer#setting-up)**.
+The email connector is essentially a LoopBack-integrated interface to the [nodemailer](https://nodemailer.com/) library. This page gives a usage example; for full documentation of configuration options, **refer to the [nodemailer documentation](https://github.com/nodemailer/nodemailer#setting-up)**.
 " %}
 
 ## Creating an email data source
@@ -70,7 +70,7 @@ Configure the email data source by editing `/server/datasources.json` (for exa
 ```
 
 {% include note.html title="More Configuration Options" content="
-For full documentation of configuration options, **refer to the [nodemailer documention](https://github.com/nodemailer/nodemailer#setting-up)**.
+For full documentation of configuration options, **refer to the [nodemailer documentation](https://github.com/nodemailer/nodemailer#setting-up)**.
 " %}
 
 ### Using GMail
